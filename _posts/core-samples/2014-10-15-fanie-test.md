@@ -6,10 +6,10 @@ tagline: Supporting tagline
 ##Test
 
 ```
-  this is code
+    this is code
 ```
 dadasdasd
 ```javascript
-  var s = "JavaScript syntax highlighting";
-  alert(s);
+	var s = "JavaScript syntax highlighting";
+	alert(s);
 ```
